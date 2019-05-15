@@ -6,5 +6,6 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="JSX" />
   </component>
+  <component name="ProjectRootManager" version="2" default="true" />
   <component name="jetbrains.communicator.idea.IdProvider" IDEtalkID="107174A14B19FD9F00DF154A962FADFF" />
 </project>
